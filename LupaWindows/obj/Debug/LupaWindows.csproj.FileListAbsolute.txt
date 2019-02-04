@@ -1,0 +1,10 @@
+C:\Users\rafae\source\repos\LupaWindows\LupaWindows\obj\Debug\LupaWindows.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\LupaWindows\LupaWindows\obj\Debug\PIM4SEMVER1._0.GUI.lupa.resources
+C:\Users\rafae\source\repos\LupaWindows\LupaWindows\obj\Debug\LupaWindows.Properties.Resources.resources
+C:\Users\rafae\source\repos\LupaWindows\LupaWindows\obj\Debug\LupaWindows.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\LupaWindows\LupaWindows\obj\Debug\LupaWindows.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\LupaWindows\LupaWindows\bin\Debug\LupaWindows.exe.config
+C:\Users\rafae\source\repos\LupaWindows\LupaWindows\bin\Debug\LupaWindows.exe
+C:\Users\rafae\source\repos\LupaWindows\LupaWindows\bin\Debug\LupaWindows.pdb
+C:\Users\rafae\source\repos\LupaWindows\LupaWindows\obj\Debug\LupaWindows.exe
+C:\Users\rafae\source\repos\LupaWindows\LupaWindows\obj\Debug\LupaWindows.pdb
